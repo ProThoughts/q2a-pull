@@ -3,7 +3,7 @@ Q2A PULL
 Q2A Pull allows to get various data from Question2Answer website and display on external website on the same server.
 
 #### IMPORTANT NOTE
-Q2A Pull is a experimental and ongoing project.
+Q2A Pull is a experimental and ongoing project. Currently only one function is available to display recent questions. More functions will be added soon. Keep watching this repo for update.
 
 #### VERSION
 BETA
