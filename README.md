@@ -70,7 +70,7 @@ Default: None
 
 #### $list_class
 (string)(optional) CSS class for UL un-order list  
-Default: None
+Default: qa-list-item
 
 About Question2Answer
 =====================
