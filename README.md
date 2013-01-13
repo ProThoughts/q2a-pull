@@ -53,28 +53,23 @@ $args parameter can helps to customize html structure and css class.
 PARAMETERS
 ----------
 #### $args
-(array)(optional) Query string will override the values in $defaults.
-
+(array)(optional) Query string will override the values in $defaults.  
 Default: None
 
 #### $limit
-(string)(optional) Must be an intiger value defined the number of question will be displayed.
-
+(string)(optional) Must be an intiger value defined the number of question will be displayed.  
 Default: 10
 
 #### $container
-(string)(optional) Valid HTML tag to wrap the un-order list of questions. Required only tag e.g 'div' and not '<div>' no closing tag required.
-
+(string)(optional) Valid HTML tag to wrap the un-order list of questions. Required only tag e.g 'div' and not '<div>' no closing tag required.  
 Default: None
 
 #### $container_class
-(string)(optional) CSS class for container
-
+(string)(optional) CSS class for container  
 Default: None
 
 #### $list_class
-(string)(optional) CSS class for UL un-order list
-
+(string)(optional) CSS class for UL un-order list  
 Default: None
 
 About Question2Answer
