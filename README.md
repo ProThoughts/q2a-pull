@@ -57,7 +57,7 @@ PARAMETERS
 Default: None
 
 #### $limit
-(string)(optional) Must be an intiger value defined the number of question will be displayed.  
+(int)(optional) Must be an intiger value defined the number of question will be displayed.  
 Default: 10
 
 #### $container
