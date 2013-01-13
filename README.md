@@ -61,7 +61,7 @@ Default: None
 Default: 10
 
 #### $container
-(string)(optional) Valid HTML tag to wrap the un-order list of questions. Required only tag e.g 'div' and not '<div>' no closing tag required.  
+(string)(optional) Valid HTML tag to wrap the un-order list of questions. Required only tag e.g `div` and not `<div>` no closing tag required.  
 Default: None
 
 #### $container_class
