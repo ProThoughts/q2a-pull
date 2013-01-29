@@ -89,10 +89,7 @@
             'list_class'        =>      'qa-list-item',
         );
         
-        $limit = $args['limit'];
-        $container =  $args['container'];
-        $container_class =  $args['container_class'];
-        $list_class = $args['list_class'];
+        extract($args);
         
         $container_open = '<'.$container.' class="'.$container_class.'" >';
         $container_close = '</'.$container.'>';
